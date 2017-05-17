@@ -16,7 +16,9 @@ color: black;
 	 font-size: 150%;
 	 font-weight: bold;
       }
- 
+ p {
+    font-size: 100%;
+}
 
 body {
 

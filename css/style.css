@@ -53,8 +53,8 @@ nav ul {
 	padding: 0;
 }
 
-.images {
-	border-image: none;
-	position: center;
+img {
+  max-width: 100%;
+  border-radius: 5px;
 } 
 

@@ -52,3 +52,9 @@ nav ul {
 	list-style-type: circle;
 	padding: 0;
 }
+
+.images {
+	border-image: none;
+	position: center;
+} 
+

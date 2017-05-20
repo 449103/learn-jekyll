@@ -10,7 +10,7 @@ tags:
 
 V historii lze nalézt několik skupin zastávajících podobné hodnoty jako hnutí hippies. Za opravdové předchůdce hippies je považována Beat Generation. Beat Generation je označení pro převážně literární skupinu, vedenou Jackem Kerouacem, která působila v poválečném USA (po 2. světové válce). Tato skupina se vyznačovala bouřením proti autoritám, holdováním alkoholu, drogám a nezávaznému sexu. Snažili se šokovat společnost. Přitom byli unavení materiálním životem, což napovídá i jejich název, který pochází z anglického slova beat, což znamená zbitý, unavený.  
 
-![Beat Generation](/images/beat-generation1.jpg "Beat Generation")
+<img src="/images/beat-generation1.jpg">
 
 Zdroje:  
 - <https://en.wikipedia.org/wiki/Beat_Generation>  

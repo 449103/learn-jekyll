@@ -13,4 +13,4 @@ všem asi více či méně důvěrně známo (kdo neví, kliká sem: <http://nav
 kdy se aktivní uživatelé těchto drog ocitli v psychiatrických léčebnách. Takže poučka na závěr:
 "Neber drogy, nebo se z toho zblázníš!" 
 
-Více o hippies a hlavně LSD se dočtete tutaj: <http://hippies-life.blog.cz/0802/lsd-aneb-droga-hippiku>
+Více o hippies a hlavně LSD se dočtete tutaj: <http://hippies-life.blog.cz/0802/lsd-aneb-droga-hippiku>.
